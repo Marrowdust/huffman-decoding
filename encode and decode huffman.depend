@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1702328754 source:d:\programs c++\encode and decode huffman\main.cpp
+	<iostream>
+	<map>
+	<queue>
+	<string>
+
+1702895621 source:c:\users\mohamed\desktop\encode and decode huffman\main.cpp
+	<iostream>
+	<string>
+
